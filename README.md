@@ -28,7 +28,7 @@ The test suite covers the following aspects:
 
 ```bash
 # Clone and run (Unix/Mac)
-git clone https://github.com/yourusername/events-widget-tests.git
+git clone https://github.com/Noiredore/events-widget-tests.git
 cd events-widget-tests
 pip install -r requirements.txt
 playwright install
