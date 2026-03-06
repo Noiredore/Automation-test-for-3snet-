@@ -2,11 +2,11 @@
 
 # Events Widget Page Tests
 
-Automated tests for the [Events Widget page](https://dev.3snet.info/eventswidget/) using Playwright with Python.
+Автоматические тесты для сайта (https://dev.3snet.info/eventswidget/) при помощи Python и Playwright
 
-## 📋 Test Coverage
+## 📋 Тестовое покрытие
 
-The test suite covers the following aspects:
+Данный тестсьют покрывают следующие аспекты:
 
 | Test | Description |
 |------|-------------|
@@ -21,10 +21,10 @@ The test suite covers the following aspects:
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.8 или выше
 - pip (Python package manager)
 
-### One-line Setup & Run
+### Установка и прогон
 
 ```bash
 # Clone and run (Unix/Mac)
@@ -33,3 +33,4 @@ cd events-widget-tests
 pip install -r requirements.txt
 playwright install
 pytest
+
